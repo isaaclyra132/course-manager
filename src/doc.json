@@ -1,0 +1,28 @@
+{
+    "mesEnvio": "2022-06",
+    "enviador": "09189273812738",
+    "usuarios": [
+        {
+            "matricula": 1203,
+            "tipo": "servidor",
+            "enviado": true
+        },
+        {
+            "matricula": 1023,
+            "tipo": "dependente",
+            "enviado": false
+        },
+        {
+            "matricula": 1943,
+            "tipo": "pensionista ou dependente",
+            "enviado": true
+        }
+    ],
+    "docs": [
+        "arquivo1.pdf",
+        "arquivo2.pdf"
+    ],
+    "status": "Faltante",
+    "motivo": "Não Legível",
+    "justificativa": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+}
